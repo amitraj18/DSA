@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/amitraj18/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amitraj18/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/amitraj18/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/amitraj18/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/amitraj18/DSA/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/amitraj18/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/amitraj18/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/amitraj18/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/amitraj18/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
